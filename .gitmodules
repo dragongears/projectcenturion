@@ -1,0 +1,6 @@
+[submodule "webos-toaster"]
+	path = webos-toaster
+	url = git://github.com/dragongears/webos-toaster
+[submodule "toaster"]
+	path = toaster
+	url = git://github.com/dragongears/toaster
