@@ -1,4 +1,4 @@
-# projectcenturion
+# Project Centurion
 
 An HP TouchPad controlling an Arduino Pro and a Larson Scanner via Bluetooth.
 
